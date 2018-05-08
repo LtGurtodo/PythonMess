@@ -16,5 +16,5 @@ if ifSentry > 0:
 
     # Trigger loop
     for i in range(x):
-        drillerP1 = drillerP1 - math≈.ceil(drillerP1 * 0.05)
+        drillerP1 = drillerP1 - math.ceil(drillerP1 * 0.05)
     print(drillerP1)
